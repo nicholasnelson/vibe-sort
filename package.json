@@ -1,0 +1,16 @@
+{
+	"name": "vibe-sort",
+	"version": "1.0.0",
+	"description": "A library for sorting values by their vibes. 100% deterministic.",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "mocha --recursive"
+	},
+	"author": "Nicholas Nelson (https://github.com/nicholasnelson)",
+	"license": "WTFPL",
+	"devDependencies": {
+		"chai": "^5.1.1",
+		"mocha": "^10.7.3"
+	}
+}
